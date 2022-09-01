@@ -8,4 +8,10 @@
 - [ ] Create file
 - [ ] Create README.md
 - [ ] Make and commit github repository
-- [ ] 
+- [ ] Write Content for Website
+- [ ] Identify Necessary Screenshots
+- [ ] Input Necessary Screenshots
+- [ ] Improve CSS styling
+- [ ] Make Website Live
+- [ ] Send out to other members of crew in beta form
+- [ ] Keep track of corrections. 
